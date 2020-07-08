@@ -10,6 +10,9 @@ set(
         hkVisualize.lib
         hkInternal.lib
         hkImageUtilities.lib
+        hkaAnimation.lib
+        hkaInternal.lib
+        hkaPhysics2012Bridge.lib
         hkcdCollide.lib
         hkcdInternal.lib
         hkGeometryUtilities.lib

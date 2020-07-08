@@ -60,7 +60,7 @@ int main(int argc, const char** argv) {
 #include <Common/Base/keycode.cxx>
 
 #undef HK_FEATURE_PRODUCT_AI
-#undef HK_FEATURE_PRODUCT_ANIMATION
+//#undef HK_FEATURE_PRODUCT_ANIMATION
 #undef HK_FEATURE_PRODUCT_CLOTH
 #undef HK_FEATURE_PRODUCT_DESTRUCTION_2012
 #undef HK_FEATURE_PRODUCT_DESTRUCTION
